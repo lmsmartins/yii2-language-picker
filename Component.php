@@ -66,7 +66,6 @@ class Component extends \yii\base\Component
      * For details see the $domain parameter description of PHP setcookie() function.
      */
     public $cookieDomain = '';
-//    public $cookieDomain = 'pickuz.com';
 
     /**
      * @var array List of available languages
